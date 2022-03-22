@@ -22,6 +22,10 @@ public class Main {
         Emprestimo.calcular(1000,3);
         Emprestimo.calcular(1000,4);
 
-
+        //Tipos de Quadrilateros
+        System.out.println("########## Empréstimos ##########");
+        Quadrilatero.areaQuadrilatero(8);
+        Quadrilatero.areaQuadrilatero(4, 8);
+        Quadrilatero.areaQuadrilatero(7, 5, 4);
     }
 }
